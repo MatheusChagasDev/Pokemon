@@ -56,13 +56,6 @@ Cada objeto dentro do array `dados` representa um jogo e possui as seguintes pro
 * `lancamento`: Ano de lançamento do jogo.
 * `link`: Link para mais informações sobre o jogo.
 
-## Contribuições
-Contribuições são bem-vindas! Para contribuir, siga estes passos:
-1. Fork este repositório.
-2. Crie um novo branch.
-3. Faça suas alterações.
-4. Envie um pull request.
-
 ## Licença
 Este projeto está licenciado sob a licença [Nome da Licença] - consulte o arquivo LICENSE para mais detalhes.
 
